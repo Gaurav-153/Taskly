@@ -1,12 +1,39 @@
-# React + Vite
+# TodoApp 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive Todo application built to help you manage your tasks efficiently. Add, update, and delete your daily tasks with ease.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can check out the live app deployed on Vercel here:  
+👉 [https://todoapp-pearl-seven.vercel.app/](https://todoapp-pearl-seven.vercel.app/)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new todos
+- Edit existing todos
+- Mark todos as complete or incomplete
+- Delete todos
+- Responsive and clean UI
+- Firebase Authentication
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (or specify if you're using Next.js, Vue, etc.)
+- **Styling:** Tailwind CSS / CSS Modules / SCSS (update based on your setup)
+- **Deployment:** Vercel
+
+## 🚀 Getting Started
+
+### Prerequisites
+- npm
+
+### Installation
+
+# Navigate to the project directory
+cd todoapp
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
