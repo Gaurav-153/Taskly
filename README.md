@@ -1,6 +1,6 @@
-# TodoApp 📝
+# Taskly 📝
 
-A simple and intuitive Todo application built to help you manage your tasks efficiently. Add, update, and delete your daily tasks with ease.
+A simple and intuitive Task management application built to help you manage your tasks efficiently. Add, update, and delete your daily tasks with ease.
 
 ## 🌐 Live Demo
 
