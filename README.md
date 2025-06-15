@@ -9,10 +9,10 @@ You can check out the live app deployed on Vercel here:
 
 ## ✨ Features
 
-- Add new todos
-- Edit existing todos
-- Mark todos as complete or incomplete
-- Delete todos
+- Add new tasks
+- Edit existing tasks
+- Mark tasks as complete or incomplete
+- Delete tasks
 - Responsive and clean UI
 - Firebase Authentication
 
@@ -30,7 +30,7 @@ You can check out the live app deployed on Vercel here:
 ### Installation
 
 # Navigate to the project directory
-cd todoapp
+cd taskly
 
 # Install dependencies
 npm install
